@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=play ~/startup2.wav
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Betty
+Name=Betty
+Comment[en_US]=Mechwarrior 3 Startup
+Comment=Mechwarrior 3 Startup
